@@ -1,0 +1,15 @@
+D:\Programming\Example001_UserConsole\bin\Debug\net7.0\Example001_UserConsole.exe
+D:\Programming\Example001_UserConsole\bin\Debug\net7.0\Example001_UserConsole.deps.json
+D:\Programming\Example001_UserConsole\bin\Debug\net7.0\Example001_UserConsole.runtimeconfig.json
+D:\Programming\Example001_UserConsole\bin\Debug\net7.0\Example001_UserConsole.dll
+D:\Programming\Example001_UserConsole\bin\Debug\net7.0\Example001_UserConsole.pdb
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.csproj.AssemblyReference.cache
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.AssemblyInfoInputs.cache
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.AssemblyInfo.cs
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.csproj.CoreCompileInputs.cache
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.dll
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\refint\Example001_UserConsole.dll
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.pdb
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\Example001_UserConsole.genruntimeconfig.cache
+D:\Programming\Example001_UserConsole\obj\Debug\net7.0\ref\Example001_UserConsole.dll
